@@ -27,8 +27,11 @@ spacy = "*"
 scrapy = "*"
 pymongo = "*"
 requests = "*"
-mysql-python = "*"
+mysqlclient = "*"
 db-sqlite3 = "*"
+autopep8 = "*"
+tqdm = "*"
+folium = "*"
 
 [requires]
 python_version = "3.7"

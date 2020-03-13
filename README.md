@@ -11,7 +11,7 @@ instructions at \*nix (including Mac), so if you use Windoze, well...
 The notebook will by default install commonly used data science packages such as
 `numpy`, `scipy`, `pandas`, `tensorflow`, `xgboost`, `matplotlib`, `plotly`, 
 `bokeh`, `statsmodels`, `seaborn`, `pydot`, `scikit-learn`, `eli5`, `tpot`,
-`dask`,  `nltk`, `spacy`, `scrapy`, `db-sqlite3`, `pymongo`, `requests`,  `MySQL-python`
+`dask`,  `nltk`, `spacy`, `scrapy`, `db-sqlite3`, `pymongo`, `requests`, `mysql-python` 
 
 It installs to a virtualenv just for this notebook server, so you won't
 mess up your system python.
@@ -41,7 +41,7 @@ pipenv install graphviz
 ```
 
 It will add it to the Pipfile, so other people know what packages are in use and can
-just `pipenv install` to get the required packages to run your notebook. Remember to 
+just `pipenv install` or `pipenv sync` to get the required packages to run your notebook. Remember to 
 (git) commit your Pipfile if you modify it!
 
 
