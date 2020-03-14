@@ -1,0 +1,37 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+jupyter = "*"
+numpy = "*"
+scipy = "*"
+scikit-learn = "*"
+pandas = "*"
+tensorflow = "*"
+xgboost = "*"
+matplotlib = "*"
+plotly = "*"
+seaborn = "*"
+bokeh = "*"
+statsmodels = "*"
+pydot = "*"
+eli5 = "*"
+tpot = "*"
+dask = "*"
+nltk = "*"
+spacy = "*"
+scrapy = "*"
+pymongo = "*"
+requests = "*"
+mysqlclient = "*"
+db-sqlite3 = "*"
+autopep8 = "*"
+tqdm = "*"
+folium = "*"
+
+[requires]
+python_version = "3.7"

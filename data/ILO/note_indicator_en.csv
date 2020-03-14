@@ -1,0 +1,617 @@
+﻿note_indicator, note_indicator.label, note_indicator.sort
+"T5:115","Unemployment definition: Two criteria (not in employment and currently available)",1
+"T5:1429","Unemployment definition: Two criteria (not in employment and seeking)",2
+"T5:3662","Unemployment definition: Two criteria (not in employment and seeking or currently available)",3
+"T5:260","Unemployment definition: Registered unemployed",4
+"T5:4118","Unemployment definition: Self-declared labour status",5
+"I24:3563","Type of difficulties: Impairments",6
+"I24:3562","Type of difficulties: Activity limitations",7
+"I24:3558","Type of difficulties: Participation restrictions",8
+"I24:3564","Type of difficulties: Nonstandard type of difficulties",9
+"I25:3553","Level of difficulties: Cannot do at all at least one activity",10
+"I25:3556","Level of difficulties: Have a lot of difficulties in performing at least one activity",11
+"I25:3555","Level of difficulties: Level of difficulties not used as a criteria",12
+"I25:3565","Level of difficulties: Nonstandard level of difficulties",13
+"I26:3561","Minimum duration of disability: No minimum duration",14
+"I26:3551","Minimum duration of disability: At least 6 months",15
+"I26:3557","Minimum duration of disability: At least 12 months",16
+"I26:3552","Minimum duration of disability: Permanent",17
+"I26:3559","Minimum duration of disability: Nonstandard minimum duration of disability",18
+"T35:2414","Time-related underemployment concept: Three criteria (worked less than a threshold, willing and available to work more hours)",19
+"T35:2416","Time-related underemployment concept: Two criteria (worked less than a threshold and willing to work more hours)",20
+"T35:2415","Time-related underemployment concept: Two criteria (willing and available to work more hours)",21
+"T35:4143","Time-related underemployment concept: Two criteria (worked less than a threshold and available to work more hours)",22
+"T35:3997","Time-related underemployment concept: Employed part time for economic reasons (persons who want and are available for full-time work but who have had to settle for a part-time schedule)",23
+"T4:109","Threshold used to define time-related underemployment: Less than 30 hours per week",24
+"T4:110","Threshold used to define time-related underemployment: Less than 35 hours per week",25
+"T4:1605","Threshold used to define time-related underemployment: Less than 36 hours per week",26
+"T4:111","Threshold used to define time-related underemployment: Less than 40 hours per week",27
+"T4:2248","Threshold used to define time-related underemployment: Less than 44 hours per week",28
+"T4:1601","Threshold used to define time-related underemployment: Less than 44 hours per week in the private sector and 40 hours per week in the public sector",29
+"T4:1464","Threshold used to define time-related underemployment: Less than 48 hours per week if person holds one job and less than 60 hours per week if person has multiple jobs",30
+"T4:256","Threshold used to define time-related underemployment: Less than usual weekly hours of work",31
+"T4:1337","Threshold used to define time-related underemployment: Self-declared part-time",32
+"T4:113","Threshold used to define time-related underemployment: No threshold related to working time used",33
+"T4:112","Threshold used to define time-related underemployment: Nonstandard weekly hours threshold",34
+"I19:3444","Type of minimum wage: Singular national minimum wage",35
+"I19:3445","Type of minimum wage: Regional minimum wage",36
+"I19:3446","Type of minimum wage: Sectoral minimum wage",37
+"I19:3447","Type of minimum wage: Occupational minimum wage",38
+"T6:118","Labour cost concept: Compensation of employees",39
+"T7:121","Time unit: Per month",40
+"T7:122","Time unit: Per week",41
+"T7:123","Time unit: Per day",42
+"T7:124","Time unit: Per hour",43
+"T7:120","Time unit: Per year",44
+"T8:127","Central tendency measure: Mean",45
+"T8:128","Central tendency measure: Median",46
+"T8:252","Central tendency measure: Weighted mean",47
+"T8:406","Central tendency measure: Minimum",48
+"T8:3277","Central tendency measure: Lowest occupational minimum wage",49
+"T8:3278","Central tendency measure: Mean of regional minimum wages",50
+"T8:3279","Central tendency measure: Mean of occupational minimum wages",51
+"T9:133","Value type: Nominal values",52
+"T9:131","Value type: Real values",53
+"T9:232","Value type: Nonstandard value type",54
+"T10:138","Accounting concept: Gross",55
+"T10:139","Accounting concept: Net",56
+"T11:1496","Job coverage: All jobs held with same employer",57
+"T11:142","Job coverage: Main job currently held",58
+"T11:2549","Job coverage: Main and second job currently held",59
+"T11:143","Job coverage: Nonstandard job coverage",60
+"T12:145","Working time arrangement coverage: Full-time and part time workers",61
+"T12:146","Working time arrangement coverage: Full-time workers",62
+"T12:1516","Working time arrangement coverage: Full-time equivalents",63
+"I27:3722","Coverage of temporary employees: Fixed-term, occasional, casual, seasonal workers; apprentices/trainees; workers in probationary period",64
+"I27:3720","Coverage of temporary employees: Workers with limited contract or -unstable- job; temporary agency and on-call workers",65
+"I27:3719","Coverage of temporary employees: Fixed-term; temporary agency work; apprentices/trainees; contract, casual or seasonal worker; less than 12 months or daily workers",66
+"I27:3721","Coverage of temporary employees: Temporary help and contract company workers and employees not expecting their job to last, including self-employed and independent contractors with a single employer and expecting to work for 1 year or less",67
+"I27:3574","Coverage of temporary employees: Employees with fixed-term contracts",68
+"I27:3576","Coverage of temporary employees: Casual and temporary employees",69
+"I27:3572","Coverage of temporary employees: Casual employees",70
+"I8:3319","Criteria used to define rural/urban areas: Definition based on population size",71
+"I8:3320","Criteria used to define rural/urban areas: Definition based on administrative area",72
+"I8:3321","Criteria used to define rural/urban areas: Definition based on population size and predominance of agricultural/non-agricultural activities",73
+"I8:3303","Criteria used to define rural/urban areas: Definition based on administrative and legal area",74
+"I8:3296","Criteria used to define rural/urban areas: Definition based on administrative area and population size",75
+"I8:3305","Criteria used to define rural/urban areas: Definition based on administrative area, population size, infrastructure and amenities",76
+"I8:3291","Criteria used to define rural/urban areas: Definition based on administrative area, population size and predominance of agricultural/non-agricultural activities",77
+"I8:3298","Criteria used to define rural/urban areas: Definition based on population size, predominance of agricultural/non-agricultural activities, infrastructure and amenities",78
+"I8:3304","Criteria used to define rural/urban areas: Definition based on administrative area, number of resident labourers for a given plantation and land area (estate area criteria - considered urban)",79
+"I8:3306","Criteria used to define rural/urban areas: Definition based on administrative area, population density, predominance of agricultual/non-agricultural activities, infrastructure and amenities",80
+"I8:3308","Criteria used to define rural/urban areas: Definition based on administrative area, population size and density, predominance of agricultural/non-agricultural activities",81
+"I10:3437","Part-time threshold: Less than 30 hours per week",82
+"I8:3299","Criteria used to define rural/urban areas: Definition based on population size and density",83
+"I10:3440","Part-time threshold: Less than 32 hours per week",84
+"I10:3439","Part-time threshold: Less than 34 hours per week",85
+"I10:3436","Part-time threshold: Less than 35 hours per week",86
+"I10:3443","Part-time threshold: Less than 40 hours per week",87
+"I8:3448","Criteria used to define rural/urban areas: Nonstandard criteria used to define rural/urban areas",88
+"I10:3441","Part-time threshold: Nonstandard hours threshold",89
+"T13:149","Coverage of occupational injuries: Reported injuries",90
+"T13:150","Coverage of occupational injuries: Compensated injuries",91
+"T13:151","Coverage of occupational injuries: Nonstandard coverage of occupational injuries",92
+"T14:153","Type of cases of occupational injuries: Cases of occupational injury",93
+"T14:154","Type of cases of occupational injuries: Including cases of occupational disease",94
+"T14:155","Type of cases of occupational injuries: Including cases of injury due to commuting accidents",95
+"T14:156","Type of cases of occupational injuries: Including cases of occupational disease and cases of injury due to commuting accidents",96
+"T14:378","Type of cases of occupational injuries: Including fatal injuries",97
+"T14:377","Type of cases of occupational injuries: Including permanent incapacity",98
+"T14:1569","Type of cases of occupational injuries: Excluding occupational diseases",99
+"T14:379","Type of cases of occupational injuries: Excluding permanent incapacity",100
+"T14:1661","Type of cases of occupational injuries: Excluding injuries not resulting in some degree of disability",101
+"T14:293","Type of cases of occupational injuries: Lost workdays of temporary incapacity",102
+"T14:157","Type of cases of occupational injuries: Nonstandard coverage of occupational injuries",103
+"T16:163","Labour dispute actions coverage: Only strikes",104
+"T16:164","Labour dispute actions coverage: Only lockouts",105
+"T16:380","Labour dispute actions coverage: General strikes",106
+"T16:381","Labour dispute actions coverage: Excluding political strikes",107
+"T16:165","Labour dispute actions coverage: Nonstandard coverage of labour dispute actions",108
+"T17:167","Lower limit on coverage of strikes and lockouts: More than a specified number of days",109
+"T17:168","Lower limit on coverage of strikes and lockouts: More than a specified number of workers involved",110
+"T17:170","Lower limit on coverage of strikes and lockouts: No lower limit",111
+"T17:1518","Lower limit on coverage of strikes and lockouts: Excluding strikes that last less than 1 hour",112
+"T17:1424","Lower limit on coverage of strikes and lockouts: Excluding strikes that last less than 2 hours",113
+"T17:1452","Lower limit on coverage of strikes and lockouts: Excluding strikes that last less than 8 hours",114
+"T17:386","Lower limit on coverage of strikes and lockouts: Excluding strikes that last less than half a day",115
+"T17:385","Lower limit on coverage of strikes and lockouts: Excluding strikes that last less than 1 day",116
+"T17:384","Lower limit on coverage of strikes and lockouts: Excluding strikes that last less than 5 days",117
+"T17:383","Lower limit on coverage of strikes and lockouts: Excluding strikes that last less than 10 days",118
+"T17:382","Lower limit on coverage of strikes and lockouts: Excluding strikes that last less than 100 days",119
+"T17:1425","Lower limit on coverage of strikes and lockouts: Excluding strikes with less than 2 workers",120
+"T17:388","Lower limit on coverage of strikes and lockouts: Excluding strikes with less than 5 workers",121
+"T17:389","Lower limit on coverage of strikes and lockouts: Excluding strikes with less than 10 workers",122
+"T17:387","Lower limit on coverage of strikes and lockouts: Excluding strikes with less than 500 workers",123
+"T17:1428","Lower limit on coverage of strikes and lockouts: Excluding strikes with less than 1000 workers",124
+"T17:169","Lower limit on coverage of strikes and lockouts: Nonstandard lower limit on coverage of strikes and lockouts",125
+"T17:4165","Lower limit on coverage of strikes and lockouts: Excluding disputes lasting less than one day or not entailing a loss of more than 100 working days and those involving less than 10 employees in the firm",126
+"T36:3214","Definition of migrants: Persons born outside of the country",127
+"T36:3223","Definition of migrants: Persons residing abroad one year ago",128
+"T36:3218","Definition of migrants: Registered migrant workers",129
+"T36:3222","Definition of migrants: Registered nationals abroad",130
+"T36:3220","Definition of migrants: Nationals who moved abroad during the past five years",131
+"T36:3217","Definition of migrants: Nationals registered to work abroad",132
+"T36:3215","Definition of migrants: Non-citizens",133
+"T36:4108","Definition of migrants: Including citizens returning from abroad",134
+"T36:3920","Definition of migrants: Permanent residents only",135
+"T36:4111","Definition of migrants: Foreigners holding a 3 months or more residence/work permit valid",136
+"T36:3221","Definition of migrants: Non-permanent residents",137
+"T36:3216","Definition of migrants: Registered aliens",138
+"T36:3526","Definition of migrants: Estimated total nationals living abroad",139
+"T36:5015","Definition of migrants: Migrants (definition unspecified)",140
+"T20:179","Poverty line method: Absolute poverty line",141
+"T20:180","Poverty line method: Relative poverty line",142
+"T20:181","Poverty line method: Unmet basic needs method",143
+"T20:182","Poverty line method: Nonstandard poverty line method",144
+"T21:185","Income (or expenditure) components: Total income",145
+"T22:191","Absolute vs. Relative value of income distribution: Absolute value in local currency",146
+"T24:201","Reference period of collective bargaining coverage: Workers covered by collective bargaining agreements registered during the year of observation",147
+"T34:400","Components of earnings/wages: Including payments in kind",148
+"T34:403","Components of earnings/wages: Excluding payments in kind",149
+"T34:2127","Components of earnings/wages: Including overtime and/or irregular bonuses",150
+"T34:1580","Components of earnings/wages: Excluding regular bonuses",151
+"T34:2128","Components of earnings/wages: Excluding overtime and/or irregular bonuses",152
+"T34:2789","Components of earnings/wages: Including family allowances",153
+"T34:3266","Components of earnings/wages: Non-binding minimum wage",154
+"T34:397","Components of earnings/wages: Nonstandard components of earnings or wages",155
+"T31:242","Trade union membership coverage: Employed persons",156
+"T31:3503","Trade union membership coverage: According to the national definition of trade union",157
+"T31:4129","Trade union membership coverage: Adjusted for the right to unionize",158
+"T31:4130","Trade union membership coverage: Refers only to the two main union confederations",159
+"T32:3476","Collective bargaining coverage: Adjusted for the right to collective bargaining",160
+"T32:3477","Collective bargaining coverage: Not adjusted for the right to collective bargaining",161
+"T32:3504","Collective bargaining coverage: Workers covered by collective contracts. The law mandates the official union to represent workers' interests in a process of collective consultation with employers over wages and other concerns of conditions of work. The legal provisions for collective consultation do not provide for workers or employers to carry out protected industrial action.",162
+"T32:4133","Collective bargaining coverage: Excluding agreements negotiated by associations of persons",163
+"T32:4131","Collective bargaining coverage: Refers only to establishments submitting reports to NICA",164
+"T32:4132","Collective bargaining coverage: Employees who are members of a union and employees who are not union members but are covered by a collective agreement or union contract",165
+"T33:396","Working time concept: Hours actually worked",166
+"T33:395","Working time concept: Hours paid for",167
+"T33:394","Working time concept: Hours usually worked",168
+"T33:393","Working time concept: Normal hours of work",169
+"I12:422","Frequency: Monthly",170
+"I12:444","Frequency: Monthly: 3 month moving average",171
+"I12:415","Frequency: Quarterly",172
+"I12:450","Frequency: Quarterly: average based on 3 monthly data points",173
+"I12:417","Frequency: Four times a year: January, April, July and October",174
+"I12:432","Frequency: Four times a year: February, May, August and November",175
+"I12:455","Frequency: Four times a year: March, June, September and December",176
+"I12:448","Frequency: Tri-annual",177
+"I12:3921","Frequency: Three times a year: March, August and November",178
+"I12:424","Frequency: Three times a year: April, August and December",179
+"I12:413","Frequency: Half-yearly",180
+"I12:451","Frequency: Half-yearly: average based on 6 monthly data points",181
+"I12:428","Frequency: Twice a year: January and July",182
+"I12:453","Frequency: Twice a year: February and August",183
+"I12:431","Frequency: Twice a year: March and September",184
+"I12:433","Frequency: Twice a year: April and October",185
+"I12:456","Frequency: Twice a year: April and November",186
+"I12:2982","Frequency: Twice a year: April and September",187
+"I12:454","Frequency: Twice a year: May and November",188
+"I12:449","Frequency: Twice a year: June and December",189
+"I12:425","Frequency: Once a year: December",190
+"I12:2984","Frequency: Yearly",191
+"I12:3274","Frequency: Twice a year",192
+"I12:3900","Frequency: Twice a year: May and October",193
+"I6:2419","Type of severity rate for strikes and lockouts: Per 1'000 employees",194
+"I6:2420","Type of severity rate for strikes and lockouts: Per 1'000 workers employed",195
+"I6:2421","Type of severity rate for strikes and lockouts: Nonstandard severity rate",196
+"I4:298","Type of rate: Incidence rate (per 100'000 full-time equivalents)",197
+"I4:216","Type of rate: Incidence rate (per 100'000 employees)",198
+"I4:217","Type of rate: Incidence rate (per 100'000 workers employed)",199
+"I4:218","Type of rate: Incidence rate (per 100'000 workers exposed to risk)",200
+"I4:219","Type of rate: Incidence rate (per 100'000 persons insured)",201
+"I4:233","Type of rate: Incidence rate (per 1'000 workers employed)",202
+"I1:461","Time period for occurrence of death: Deaths occurring within 1 day",203
+"I1:465","Time period for occurrence of death: Deaths occurring within 3 days",204
+"I1:1221","Time period for occurrence of death: Deaths occuring within 4 days",205
+"I1:1356","Time period for occurrence of death: Deaths occurring within 5 days",206
+"I1:463","Time period for occurrence of death: Deaths occurring within 15 days",207
+"I1:462","Time period for occurrence of death: Deaths occurring within 1 month",208
+"I1:466","Time period for occurrence of death: Deaths occurring within 4 months",209
+"I1:467","Time period for occurrence of death: Deaths occurring within 6 months",210
+"I1:1154","Time period for occurrence of death: Deaths occurring within 1 year",211
+"I1:464","Time period for occurrence of death: Deaths occurring within 2 years",212
+"I1:468","Time period for occurrence of death: Deaths occurring within the same reference year",213
+"I1:1512","Time period for occurrence of death: Deaths occurring within the same reference financial year",214
+"I1:1244","Time period for occurrence of death: No specified period for occurrence of deaths",215
+"I2:1653","Minimum period of absence from work: No minimum period of absence",216
+"I2:1681","Minimum period of absence from work: Incapacities lasting 1 day or more",217
+"I2:1304","Minimum period of absence from work: Incapacities lasting one calendar day or more",218
+"I2:469","Minimum period of absence from work: Incapacities lasting more than 2 days",219
+"I2:470","Minimum period of absence from work: Incapacities lasting more than 3 days",220
+"I2:1353","Minimum period of absence from work: Incapacities lasting less than 3 days",221
+"I2:471","Minimum period of absence from work: Incapacities lasting more than 4 days",222
+"I2:472","Minimum period of absence from work: Incapacities lasting more than 6 days",223
+"I2:473","Minimum period of absence from work: Incapacities lasting more than 9 days",224
+"I2:1510","Minimum period of absence from work: Incapacities lasting more than 1 working week",225
+"I2:1716","Minimum period of absence from work: Nombre de jours indemnisés pour les ATMP non mortels ayant entrainé un premier paiement d'IJ dans l'année.",226
+"I2:1482","Minimum period of absence from work: Some loss of working time within the year of the accident",227
+"I2:1665","Minimum period of absence from work: Not specified",228
+"I2:2482","Minimum period of absence from work: Non standard minimum period of absence from work",229
+"I3:3702","Definition of permanent incapacity: The degree of disablement resulting from the relevant loss of faculty assessed for life/final by the Medical Board of the Ministry of Social Security",230
+"I3:3745","Definition of permanent incapacity: This is left to each jurisdiction to define permanent incapacity according to their relevant legislations.",231
+"I3:1330","Definition of permanent incapacity: An employment Injury which impairs the physical and/or mental ability of an insured person",232
+"I3:2812","Definition of permanent incapacity: case where an injured person was absent from work for at least one day, excluding the day of the accident, and 1) was never able to perform again the normal duties of the job or position occupied at the time of the occupational accident, or 2) will be abl",233
+"I3:1156","Definition of permanent incapacity: Cases with serious brain or spinal injuries or requiring lifetime rehabilitation",234
+"I3:1186","Definition of permanent incapacity: Existe situación de Incapacidad Laboral Permanente cuando el daño sufrido por el trabajador le ocasione una disminución permanente de su capacidad laborativa (ART 8º. Ley 24557 de Riesgos del Trabajo).",235
+"I3:2664","Definition of permanent incapacity: Existen dos tipos de incapacidad permanente: Incapacidad permanente parcial. Es la disminución de las facultades o aptitudes de una persona para trabajar.",236
+"I3:1715","Definition of permanent incapacity: Incapacité permanente : nombre d'ATMP avec un taux d'IPP supérieur ou égal à 30%",237
+"I3:1654","Definition of permanent incapacity: Incapacity that is not for a limited period and is not temporary",238
+"I3:1717","Definition of permanent incapacity: Nombre d'ATMP ayant donné à un premier paiement d'indemnité en capital (IPP<10%) ou à une rente(IPP>=10%) non mortel",239
+"I3:1668","Definition of permanent incapacity: Not specified",240
+"I3:1483","Definition of permanent incapacity: One day excluding day of the accident",241
+"I3:3063","Definition of permanent incapacity: Only 1 day or more of absence from work. No information about permanent/temporary",242
+"I3:3121","Definition of permanent incapacity: PARCIAL PERMANENTE. Cuando la lesión genera la pérdida parcial de un miembro u órgano o de las funciones del mismo.TOTAL PERMANENTE. Cuando la lesión genera la pérdida anatómica o funcional total de un miembro u órgano; o de las funciones del mismo. Se",243
+"I3:1222","Definition of permanent incapacity: Permanent Disablement: non-fatal injuries which are more severe in nature, involving the complete loss, or partial loss of use of any member/part of a member of the injured victim¿s body (e.g. the amputation of an arm, a finger or the bone of a finger).",244
+"I3:2920","Definition of permanent incapacity: Permanent incapacity is defined as 183 or days of absence from work",245
+"I3:1303","Definition of permanent incapacity: Permanent physiological incapacity to consolidate",246
+"I3:2914","Definition of permanent incapacity: Using Major injuries. Definition: if it is an injury, other than fatal injuries, which are more severe in nature using a combination of factors, including the nature of injury, part of the body injured, incident type and duration of medical leave. These i",247
+"I3:3351","Definition of permanent incapacity: Un accident du travail avec incapacité permanente de travailler est un accident ayant entrainé une infirmité qui a été indemnisé soit par une capital forfaitaire, si le taux d¿incapacité permanente est inférieur à 10%, soit par une rente d'incapacité perm",248
+"I5:221","Time unit for measuring time lost: Calendar days",249
+"I5:222","Time unit for measuring time lost: Working days",250
+"I7:231","Workers involved: Workers directly and indirectly involved",251
+"I7:230","Workers involved: Excludes workers indirectly involved",252
+"I9:318","Unit: Thousands",253
+"T37:3353","Socio-economic vulnerability: Very low",254
+"T37:3354","Socio-economic vulnerability: Low",255
+"T37:3355","Socio-economic vulnerability: Medium",256
+"T37:3356","Socio-economic vulnerability: High",257
+"T37:3357","Socio-economic vulnerability: Very high",258
+"T37:3358","Socio-economic vulnerability: Not available",259
+"I11:3256","Break in series: Change in source",260
+"I11:264","Break in series: Methodology revised",261
+"I11:265","Break in series: Sample redesigned",262
+"I11:269","Break in series: Change in definition or concept",263
+"I11:271","Break in series: Industry classification revised",264
+"I11:267","Break in series: Occupation classification revised",265
+"I11:2114","Break in series: Educational classification revised",266
+"I11:268","Break in series: New or revalued currency",267
+"I11:266","Break in series: Other or unspecified type of break",268
+"I13:3922","Remarks: Direct seasonal adjustment using X-13ARIMA-SEATS. No trading-days effect. Manual outlier detection.",269
+"I13:1473","Remarks: Including those not classified",270
+"I13:1558","Remarks: Excluding those not classified",271
+"I13:287","Remarks: Excluding estimates for non-response",272
+"I13:280","Remarks: Survey results influenced by a low response rate",273
+"I13:276","Remarks: Not strictly comparable",274
+"I13:272","Remarks: Unweighted survey results",275
+"I13:275","Remarks: Computed on the basis of an eight-hour working day",276
+"I13:282","Remarks: Computed on the basis of a seven-hour working day",277
+"I13:281","Remarks: The wage threshold for inclusion in these series varies in time which may explain part of the fluctuations in the series",278
+"I13:296","Remarks: Private analysts estimate a higher CPI than the one officially reported for the period since 2007. These alternative estimates have been used in some wage negotiations",279
+"I13:294","Remarks: One strike represents one establishment on strike",280
+"I13:3213","Remarks: Excluding seafaring migrants",281
+"I13:3212","Remarks: Employment refers to those with gainful activity during the past 12 months",282
+"I13:3154","Remarks: Social insurance",283
+"I13:3153","Remarks: Social insurance and social assistance (public employment guarantee scheme)",284
+"I13:3159","Remarks: Social assistance",285
+"I13:3158","Remarks: Social assistance and social insurance",286
+"I13:3155","Remarks: Saving accounts / social insurance",287
+"I13:3169","Remarks: Withdraw from provident fund",288
+"I13:3168","Remarks: Unemployment insurance as part of social security law (August 2012, not yet implemented)",289
+"I13:3167","Remarks: Social insurance and social assistance",290
+"I13:3166","Remarks: Only Central Budgetary social protection expenditure | Only Health",291
+"I13:3165","Remarks: Severance payment (no statutory). Possible withdraw from social security institute.",292
+"I13:3164","Remarks: Social insurance and unemployment aid",293
+"I13:3163","Remarks: No statutory provision",294
+"I13:3162","Remarks: Mandatory insurance",295
+"I13:3161","Remarks: General government level | Health and Social Protection",296
+"I13:3160","Remarks: No statutory provision. Severance payment without a decree adopted.",297
+"I13:3157","Remarks: Subsidized voluntary insurance and social assistance;",298
+"I13:3156","Remarks: Decent work indicator for the social protection dimension. Based on data from WHO.",299
+"I13:3152","Remarks: Mandatory private account and employment-related benefit.",300
+"I13:3151","Remarks: One level | Central Government social protection expenditure | Health and Social Protection",301
+"I13:3150","Remarks: Social insurance and individual account system",302
+"I13:3149","Remarks: Universal and social insurance",303
+"I13:3148","Remarks: Severance payment (no statutory)",304
+"I13:3147","Remarks: One level | Local Government social protection expenditure | Health and Social Protection",305
+"I13:3146","Remarks: Non General Government level | Only Health",306
+"I13:3287","Remarks: Eligible age for the old-age social pension (60+) rather than the statutory pensionable age (55+)",307
+"I13:3489","Remarks: Annual average is weighted mean of monthly data",308
+"I13:3765","Remarks: Excluding two public utility companies",309
+"I13:5823","Remarks: The foreign-born exclude individuals born abroad who have at least one parent or grandparent born in the country",310
+"I13:3767","Remarks: Excluding employees of Ministry of Internal Affairs, Ministry of Defence and individual farmers",311
+"I13:3879","Remarks: As a percent of total employment",312
+"I13:3888","Remarks: Warning on the use of statistical series: Statistical series published after January 2007 and before December 2015 should be used with caution. The INDEC, based on what is stated in decrees 181/15 and 55/16, is undertaking the investigations required to ensure the regularity of data collection, processing and dissemination procedures.",313
+"I13:4171","Remarks: Does not include data of strikes of the 3rd of October and 8th of November in Catalonia.",314
+"I13:3890","Remarks: Refers to concept of jobs rather than persons employed",315
+"I13:5034","Remarks: Information provided by the Russian Federation. Includes statistical data for the Autonomous Republic of Crimea and the city of Sevastopol, Ukraine, temporarily occupied by the Russian Federation",316
+"I13:5127","Remarks: Data randomly adjusted for confidentiality protection. Sum of items may not equal to the total.",317
+"I13:3326","Remarks: Categories might not add up to totals due to data gaps relating to a residual category of non-classifiable observations included in the total but excluded from the given categories.",318
+"I21:3460","Workers in informal employment: Employees holding informal jobs, entrepreneurs in the informal sector, all contributing family workers, and producers exclusively for own final use",319
+"I21:3458","Workers in informal employment: Employees holding informal jobs, entrepreneurs in the informal sector, and all contributing family workers",320
+"I21:3459","Workers in informal employment: Employees holding informal jobs, entrepreneurs in the informal sector, contributing family workers in the informal sector, and producers exclusively for own final use",321
+"I21:4098","Workers in informal employment: Employees holding informal jobs, entrepreneurs in the informal sector, and producers exclusively for own final use",322
+"I21:4099","Workers in informal employment: Employees holding informal jobs and entrepreneurs in the informal sector",323
+"I21:4144","Workers in informal employment: Other nonstandard definition",324
+"I20:3455","Informal employees: Do not have a written contract nor social security coverage nor paid vacation nor paid sick leave",325
+"I20:3450","Informal employees: Do not have a written contract nor social security coverage",326
+"I20:3453","Informal employees: Do not have a written contract nor paid vacation",327
+"I20:3451","Informal employees: Do not have social security coverage nor paid vacation nor paid sick leave",328
+"I20:3454","Informal employees: Do not have social security coverage",329
+"I20:3456","Informal employees: Do not have a written contract nor social security coverage nor paid vacation",330
+"I20:3452","Informal employees: Do not have a written contract",331
+"I20:3457","Informal employees: Do not have social security coverage nor paid vacation",332
+"I22:3467","Economic units in the informal sector: Produce goods or services for sale or barter; are owned by household member; do not keep a complete set of accounts; are not registered; have unregistered employees; are engaged in non-agricultural activities; and are not producers of goods exclusively for own final use",333
+"I22:3466","Economic units in the informal sector: Produce goods or services for sale or barter; are owned by household member; do not keep a complete set of accounts; are below a certain size; are not registered; are not households employing paid domestic workers; and are not producers of goods exclusively for own final use",334
+"I22:3464","Economic units in the informal sector: Produce goods or services for sale or barter; are owned by household member; are not registered; are engaged in non-agricultural activities; are not households employing paid domestic workers; and are not producers of goods exclusively for own final use",335
+"I22:3465","Economic units in the informal sector: Produce goods or services for sale or barter; are owned by household member; are not registered; have unregistered employees; are engaged in non-agricultural activities; are not households employing paid domestic workers; and are not producers of goods exclusively for own final use",336
+"I22:3471","Economic units in the informal sector: Produce goods or services for sale or barter; are owned by household member; are not registered; have unregistered employees; are not households employing paid domestic workers; and are not producers of goods exclusively for own final use",337
+"I22:3978","Economic units in the informal sector: Produce goods or services for sale or barter; are owned by household member; are below a certain size; and do not keep a complete set of accounts",338
+"I22:3462","Economic units in the informal sector: Produce goods or services for sale or barter; are owned by household member; do not keep a complete set of accounts; are below a certain size; and are not registered",339
+"I22:3468","Economic units in the informal sector: Produce goods or services for sale or barter; do not keep a complete set of accounts; and are not registered",340
+"I22:3469","Economic units in the informal sector: Produce goods or services for sale or barter; are owned by household member; and are not registered",341
+"I22:3461","Economic units in the informal sector: Do not keep a complete set of accounts; are below a certain size; and are not registered",342
+"I22:5032","Economic units in the informal sector: Are not registered and are below a certain size",343
+"I22:3470","Economic units in the informal sector: Are not registered",344
+"I22:3463","Economic units in the informal sector: Are below a certain size",345
+"I22:4146","Economic units in the informal sector: Other nonstandard definition",346
+"I23:3547","Public sector coverage: Total public sector",347
+"I23:3548","Public sector coverage: General government only",348
+"I23:3549","Public sector coverage: Nonstandard public sector coverage",349
+"T30:1","Currency: DZA - Algerian dinar (DZD)",350
+"T30:2","Currency: AGO - Kwanza (AOA)",351
+"T30:3","Currency: BEN - West African CFA franc (XOF)",352
+"T30:4","Currency: BWA - Pula (BWP)",353
+"T30:5","Currency: BFA - West African CFA franc (XOF)",354
+"T30:6","Currency: BDI - Burundian franc (BIF)",355
+"T30:7","Currency: CMR - Central African CFA franc (XAF)",356
+"T30:8","Currency: CPV - Escudo (CVE)",357
+"T30:10","Currency: COM - Comorian franc (KMF)",358
+"T30:12","Currency: COD - Congolese franc (CDF)",359
+"T30:13","Currency: CIV - West African CFA franc (XOF)",360
+"T30:15","Currency: EGY - Egyptian pound (EGP)",361
+"T30:17","Currency: ETH - Birr (ETB)",362
+"T30:18","Currency: GAB - Central African CFA franc (XAF)",363
+"T30:19","Currency: GMB - Dalasi (GMD)",364
+"T30:20","Currency: GHA - Cedi (GHS)",365
+"T30:21","Currency: GNQ - Central African CFA franc (XAF)",366
+"T30:23","Currency: GNB - West African CFA franc (XOF)",367
+"T30:24","Currency: KEN - Kenyan shilling (KES)",368
+"T30:25","Currency: LSO - Loti (LSL)",369
+"T30:26","Currency: LBR - Liberian dollar (LRD)",370
+"T30:27","Currency: LBY - Libyan dinar (LYD)",371
+"T30:28","Currency: MDG - Malagasy ariary (MGA)",372
+"T30:29","Currency: MWI - Malawian kwacha (MWK)",373
+"T30:30","Currency: MLI - West African CFA franc (XOF)",374
+"T30:31","Currency: MAR - Moroccan dirham (MAD)",375
+"T30:32","Currency: MRT - Ouguiya (MRO)",376
+"T30:33","Currency: MUS - Mauritian rupee (MUR)",377
+"T30:34","Currency: MOZ - Metical (MZN)",378
+"T30:35","Currency: NAM - Namibian dollar (NAD)",379
+"T30:36","Currency: NER - West African CFA franc (XOF)",380
+"T30:37","Currency: NGA - Naira (NGN)",381
+"T30:38","Currency: REU - Euro (EUR)",382
+"T30:39","Currency: RWA - Rwandan franc (RWF)",383
+"T30:42","Currency: SEN - West African CFA franc (XOF)",384
+"T30:43","Currency: SYC - Seychellois rupee (SCR)",385
+"T30:44","Currency: SLE - Leone (SLL)",386
+"T30:46","Currency: ZAF - Rand (ZAR)",387
+"T30:47","Currency: SHN - British pound (GBP)",388
+"T30:48","Currency: SDN - Sudanese pound (SDG)",389
+"T30:49","Currency: SWZ - Lilangeni (SZL)",390
+"T30:50","Currency: TZA - Tanzanian shilling (TZS)",391
+"T30:53","Currency: TCD - Central African CFA franc (XAF)",392
+"T30:54","Currency: TGO - West African CFA franc (XOF)",393
+"T30:55","Currency: TUN - Tunisian dinar (TND)",394
+"T30:56","Currency: UGA - Ugandan shilling (UGX)",395
+"T30:57","Currency: ZMB - Zambian kwacha (ZMK)",396
+"T30:58","Currency: ZWE - Zimbabwean dollar (ZWL)",397
+"T30:59","Currency: AIA - East Caribbean dollar (XCD)",398
+"T30:61","Currency: ARG - Argentine peso (ARS)",399
+"T30:62","Currency: ABW - Florin (AWG)",400
+"T30:63","Currency: BHS - Bahamian dollar (BSD)",401
+"T30:64","Currency: BRB - Barbadian dollar (BBD)",402
+"T30:65","Currency: BLZ - Belize dollar (BZD)",403
+"T30:66","Currency: BMU - Bermudian dollar (BMD)",404
+"T30:67","Currency: BOL - Bolivian (BOB)",405
+"T30:68","Currency: BRA - Real (BRL)",406
+"T30:69","Currency: CAN - Canadian Dollar (CAD)",407
+"T30:71","Currency: COL - Colombian peso (COP)",408
+"T30:72","Currency: CRI - Colon (CRC)",409
+"T30:73","Currency: CUB - Cuban peso (CUP)",410
+"T30:74","Currency: CHL - Chilean peso (CLP)",411
+"T30:76","Currency: DOM - Dominican peso (DOP)",412
+"T30:77","Currency: ECU - United States dollar (USD)",413
+"T30:78","Currency: SLV - United States dollar (USD)",414
+"T30:79","Currency: FLK - Falkland Islands pound (FKP)",415
+"T30:82","Currency: GLP - Euro (EUR)",416
+"T30:83","Currency: GTM - Quetzal (GTQ)",417
+"T30:84","Currency: GUY - Guyanese dollar (GYD)",418
+"T30:85","Currency: GUF - Euro (EUR)",419
+"T30:86","Currency: HTI - Gourde (HTG)",420
+"T30:87","Currency: HND - Lempira (HNL)",421
+"T30:88","Currency: JAM - Jamaican dollar (JMD)",422
+"T30:89","Currency: MTQ - Euro (EUR)",423
+"T30:90","Currency: MEX - New Peso (MXN)",424
+"T30:93","Currency: NIC - Cordoba (NIO)",425
+"T30:94","Currency: PAN - Balboa (PAB)",426
+"T30:95","Currency: PRY - Guarani (PYG)",427
+"T30:96","Currency: PER - Nuevo sol (PEN)",428
+"T30:97","Currency: PRI - United States dollar (USD)",429
+"T30:99","Currency: LCA - East Caribbean dollar (XCD)",430
+"T30:102","Currency: SUR - Surinamese dollar (SRD)",431
+"T30:103","Currency: TTO - Trinidad and Tobago dollar (TTD)",432
+"T30:105","Currency: USA - United States dollar (USD)",433
+"T30:106","Currency: URY - Uruguayan peso (UYU)",434
+"T30:107","Currency: VEN - Bolívar fuerte (VEF)",435
+"T30:108","Currency: VGB - United States dollar (USD)",436
+"T30:109","Currency: VIR - United States dollar (USD)",437
+"T30:110","Currency: AFG - Afghani (AFN)",438
+"T30:111","Currency: ARM - Dram (AMD)",439
+"T30:112","Currency: AZE - Azerbaijani manat (AZN)",440
+"T30:113","Currency: BHR - Bahraini dinar (BHD)",441
+"T30:114","Currency: BGD - Taka (BDT)",442
+"T30:115","Currency: BTN - Ngultrum (BTN)",443
+"T30:116","Currency: BRN - Brunei dollar (BND)",444
+"T30:117","Currency: KHM - Riel (KHR)",445
+"T30:118","Currency: CHN - Yuan (CNY)",446
+"T30:119","Currency: GEO - Lari (GEL)",447
+"T30:120","Currency: HKG - Hong Kong dollar (HKD)",448
+"T30:121","Currency: IND - Indian rupee (INR)",449
+"T30:122","Currency: IDN - Indonesian rupiah (IDR)",450
+"T30:123","Currency: IRN - Iranian rial (IRR)",451
+"T30:125","Currency: ISR - New Shekel (ILS)",452
+"T30:126","Currency: JPN - Yen (JPY)",453
+"T30:127","Currency: JOR - Jordanian dinar (JOD)",454
+"T30:128","Currency: KAZ - Tenge (KZT)",455
+"T30:130","Currency: KOR - South Korean won (KRW)",456
+"T30:131","Currency: KWT - Kuwaiti dinar (KWD)",457
+"T30:132","Currency: KGZ - Kyrgyzstani som (KGS)",458
+"T30:133","Currency: LAO - Kip (LAK)",459
+"T30:134","Currency: LBN - Lebanese pound (LBP)",460
+"T30:135","Currency: MAC - Pataca (MOP)",461
+"T30:136","Currency: MYS - Ringgit (MYR)",462
+"T30:137","Currency: MDV - Rufiyaa (MVR)",463
+"T30:138","Currency: MNG - Tögrög (MNT)",464
+"T30:139","Currency: MMR - Kyat (MMK)",465
+"T30:140","Currency: NPL - Nepalese rupee (NPL)",466
+"T30:141","Currency: OMN - Omani rial (OMR)",467
+"T30:142","Currency: PAK - Pakistani rupee (PKR)",468
+"T30:143","Currency: PHL - Philippine peso (PHP)",469
+"T30:144","Currency: QAT - Qatari riyal (QAR)",470
+"T30:145","Currency: SAU - Saudi riyal (SAR)",471
+"T30:146","Currency: SGP - Singapore dollar (SGD)",472
+"T30:147","Currency: LKA - Sri Lankan rupee (LKR)",473
+"T30:148","Currency: SYR - Syrian pound (SYP)",474
+"T30:149","Currency: TWN - New Taiwan dollar (TWD)",475
+"T30:150","Currency: TJK - Somoni (TJS)",476
+"T30:151","Currency: THA - Baht (THB)",477
+"T30:152","Currency: TLS - United States dollar (USD)",478
+"T30:154","Currency: ARE - United Arab Emirates dirham (AED)",479
+"T30:155","Currency: UZB - Uzbekistani som (UZS)",480
+"T30:156","Currency: VNM - Dông (VND)",481
+"T30:157","Currency: PSE - New Shekel (ILS)",482
+"T30:158","Currency: YEM - Yemeni rial (YER)",483
+"T30:159","Currency: ALB - Lek (ALL)",484
+"T30:160","Currency: AND - Euro (EUR)",485
+"T30:161","Currency: AUT - Euro (EUR)",486
+"T30:162","Currency: BLR - Belarusian ruble (BYR)",487
+"T30:163","Currency: BEL - Euro (EUR)",488
+"T30:164","Currency: BIH - Marka (BAM)",489
+"T30:165","Currency: BGR - Lev (BGN)",490
+"T30:167","Currency: HRV - Kuna (HRK)",491
+"T30:168","Currency: CYP - Euro (EUR)",492
+"T30:169","Currency: CZE - Koruna (CZK)",493
+"T30:170","Currency: DNK - Danish krone (DKK)",494
+"T30:171","Currency: ESP - Euro (EUR)",495
+"T30:172","Currency: EST - Euro (EUR)",496
+"T30:174","Currency: FIN - Euro (EUR)",497
+"T30:175","Currency: FRA - Euro (EUR)",498
+"T30:176","Currency: DEU - Euro (EUR)",499
+"T30:177","Currency: GIB - Gibraltar pound (GIP)",500
+"T30:178","Currency: GRC - Euro (EUR)",501
+"T30:179","Currency: GGY - Guernsey pound (GGP)",502
+"T30:180","Currency: HUN - Forint (HUF)",503
+"T30:181","Currency: ISL - Icelandic króna (ISK)",504
+"T30:182","Currency: IRL - Euro (EUR)",505
+"T30:183","Currency: IMN - Manx pound (IMP)",506
+"T30:184","Currency: ITA - Euro (EUR)",507
+"T30:185","Currency: JEY - Jersey pound (JEP)",508
+"T30:186","Currency: KOS - Euro (EUR)",509
+"T30:187","Currency: LVA - Lats (LVL)",510
+"T30:188","Currency: LIE - Swiss franc (CHF)",511
+"T30:189","Currency: LTU - Litas (LTL)",512
+"T30:190","Currency: LUX - Euro (EUR)",513
+"T30:191","Currency: MKD - Denar (MKD)",514
+"T30:192","Currency: MLT - Euro (EUR)",515
+"T30:193","Currency: MDA - Moldovan leu (MDL)",516
+"T30:195","Currency: MNE - Euro (EUR)",517
+"T30:196","Currency: NLD - Euro (EUR)",518
+"T30:197","Currency: NOR - Norwegian krone (NOK)",519
+"T30:198","Currency: POL - Zloty (PLN)",520
+"T30:199","Currency: PRT - Euro (EUR)",521
+"T30:200","Currency: ROU - Romanian leu (RON)",522
+"T30:201","Currency: RUS - Russian ruble (RUB)",523
+"T30:202","Currency: SMR - Euro (EUR)",524
+"T30:203","Currency: SRB - Serbian dinar (RSD)",525
+"T30:204","Currency: SVK - Euro (EUR)",526
+"T30:205","Currency: SVN - Euro (EUR)",527
+"T30:206","Currency: CHE - Swiss franc (CHF)",528
+"T30:207","Currency: SWE - Swedish krona (SEK)",529
+"T30:208","Currency: TUR - Turkish lira (TRY)",530
+"T30:209","Currency: UKR - Hryvnia (UAH)",531
+"T30:210","Currency: GBR - British pound (GBP)",532
+"T30:212","Currency: AUS - Australian dollar (AUD)",533
+"T30:213","Currency: COK - New Zealand dollar (NZD)",534
+"T30:214","Currency: FJI - Fijian dollar (FJD)",535
+"T30:215","Currency: GUM - United States dollar (USD)",536
+"T30:218","Currency: MHL - United States dollar (USD)",537
+"T30:220","Currency: NZL - New Zealand dollar (NZD)",538
+"T30:224","Currency: NCL - CFP franc (XPF)",539
+"T30:225","Currency: PLW - United States dollar (USD)",540
+"T30:226","Currency: PNG - Kina (PGK)",541
+"T30:227","Currency: PYF - CFP franc (XPF)",542
+"T30:228","Currency: WSM - Tala (WST)",543
+"T30:229","Currency: SLB - Solomon Islands dollar (SBD)",544
+"T30:231","Currency: TON - Pa'anga (TOP)",545
+"T30:233","Currency: VUT - Vatu (VUV)",546
+"T30:251","Currency: ALB - Old lek (ALK)",547
+"T30:255","Currency: ANT - Netherlands Antillean guilder (ANG)",548
+"T30:256","Currency: ARG - Austral (ARA)",549
+"T30:258","Currency: AUT - Schilling (ATS)",550
+"T30:260","Currency: AZE - Azerbaijani manat (AZM)",551
+"T30:261","Currency: AZE - Russian ruble (RUR)",552
+"T30:263","Currency: BEL - Belgian franc (BEF)",553
+"T30:264","Currency: BEL - Financial franc (BEL)",554
+"T30:265","Currency: BGR - Lev (BGL)",555
+"T30:267","Currency: BLR - Belarusian ruble (BYB)",556
+"T30:268","Currency: BLR - Russian ruble (RUR)",557
+"T30:270","Currency: BRA - Cruzeiro (BRB)",558
+"T30:271","Currency: BRA - Cruzado (BRC)",559
+"T30:272","Currency: BRA - Cruzeiro (BRE)",560
+"T30:273","Currency: BRA - New cruzado (BRN)",561
+"T30:274","Currency: BRA - Cruzeiro real (BRR)",562
+"T30:279","Currency: CYP - Cypriot pound (CYP)",563
+"T30:280","Currency: DEU - Deutsche Mark (DEM)",564
+"T30:281","Currency: ECU - Sucre (ECS)",565
+"T30:282","Currency: ECU - Unidad de Valor Constante (UVC) (ECV)",566
+"T30:284","Currency: ESP - Spanish peseta (ESP)",567
+"T30:285","Currency: EST - Estonian kroon (EEK)",568
+"T30:286","Currency: FIN - Finnish markka (FIM)",569
+"T30:287","Currency: FRA - French franc (FRF)",570
+"T30:291","Currency: GHA - Cedi (GHP)",571
+"T30:294","Currency: GLP - French franc (FRF)",572
+"T30:299","Currency: GUF - French franc (FRF)",573
+"T30:300","Currency: HRV - Croatian dinar (HRD)",574
+"T30:301","Currency: IRL - Irish pound (IEP)",575
+"T30:302","Currency: ITA - Italian lira (ITL)",576
+"T30:304","Currency: KAZ - Russian ruble (RUR)",577
+"T30:308","Currency: LTU - Talonas (LTT)",578
+"T30:310","Currency: LUX - Luxembourgish franc (LUF)",579
+"T30:314","Currency: MDA - Russian ruble (RUR)",580
+"T30:317","Currency: MEX - Mexican peso (MXP)",581
+"T30:320","Currency: MLT - Maltese lira (MTL)",582
+"T30:321","Currency: MLT - Maltese pound (MTP)",583
+"T30:324","Currency: MTQ - French franc (FRF)",584
+"T30:325","Currency: NIC - Cordoba (NIC)",585
+"T30:326","Currency: NLD - Dutch guilder (NLG)",586
+"T30:327","Currency: PER - Inti (PEI)",587
+"T30:329","Currency: POL - Zloty (PLZ)",588
+"T30:330","Currency: PRT - Portuguese escudo (PTE)",589
+"T30:332","Currency: ROU - Old leu (ROL)",590
+"T30:333","Currency: RUS - Russian ruble (RUR)",591
+"T30:336","Currency: SDN - Sudanese dinar (SDD)",592
+"T30:337","Currency: SDN - Sudanese pound (SDP)",593
+"T30:338","Currency: SMR - Italian lira (ITL)",594
+"T30:340","Currency: SUR - Surinam guilder (SRG)",595
+"T30:341","Currency: SVK - Slovak koruna (SKK)",596
+"T30:342","Currency: SVN - Tolar (SIT)",597
+"T30:344","Currency: TJK - Russian ruble (RUR)",598
+"T30:345","Currency: TJK - Tajikistani ruble (TJR)",599
+"T30:347","Currency: TKM - Turkmenistan manat (TMM)",600
+"T30:350","Currency: TUR - Old Turkish lira (TRL)",601
+"T30:353","Currency: UKR - Karbovanets (UAK)",602
+"T30:355","Currency: URY - New Uruguayan Peso (UYN)",603
+"T30:357","Currency: UZB - Russian ruble (RUR)",604
+"T30:358","Currency: VEN - Bolivar (VEB)",605
+"T30:363","Currency: ZAF - Financial rand (ZAL)",606
+"T30:364","Currency: ZWE - Rhodesian dollar (ZWC)",607
+"T30:367","Currency: ZWE - Zimbabwean dollar (new) (ZWN)",608
+"T30:370","Currency: LTU - Rouble (C10)",609
+"T30:371","Currency: UKR - Rouble (C10)",610
+"T30:374","Currency: LVA - Euro (EUR)",611
+"T30:375","Currency: KHM - United States dollar (USD)",612
+"T30:376","Currency: CUW - Netherlands Antillean Guilder (ANG)",613
+"T30:377","Currency: LTU - Euro (EUR)",614
+"T30:379","Currency: ZMB - Zambian kwacha (ZMW)",615
+"T30:380","Currency: BLR - Belarusian ruble (BYN)",616
